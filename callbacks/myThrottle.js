@@ -1,0 +1,11 @@
+
+
+Function.prototype.myThrottle(interval) {
+  
+}
+
+
+
+
+
+
